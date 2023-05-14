@@ -1,2 +1,2 @@
-# java_timer_test
+# timer_test
  a simple java timer
