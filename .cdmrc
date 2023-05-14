@@ -1,0 +1,3 @@
+tabs: ["CountdownTimer.java"]
+run-button: javac CountdownTimer.java && java CountdownTimer.class
+terminals: ["javac CountdownTimer.java && java CountdownTimer"]
